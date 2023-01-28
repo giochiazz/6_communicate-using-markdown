@@ -19,4 +19,7 @@ for (int i = 0 ; i < 10; i++)
   // Code to execute.
 }
 ```
-    
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:    
